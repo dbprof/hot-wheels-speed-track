@@ -12,4 +12,4 @@
 ![Схема подключения](https://github.com/dbprof/hot-wheels-speed-track/blob/master/schema.png)
 
 Видео показ работы:
-[![Видео](https://github.com/dbprof/hot-wheels-speed-track/blob/master/video2.png)](https://github.com/dbprof/hot-wheels-speed-track)
+[![Видео](https://github.com/dbprof/hot-wheels-speed-track/blob/master/video2.png)](https://youtu.be/L8g52qN8nvk)
