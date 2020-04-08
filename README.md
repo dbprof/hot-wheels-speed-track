@@ -30,7 +30,7 @@ https://aliexpress.ru/item/4000216515466.html
 ![Схема подключения](https://github.com/dbprof/hot-wheels-speed-track/blob/master/schema.png)
 
 Видео сборки:
-[![Видео](https://github.com/dbprof/hot-wheels-speed-track/blob/master/video2.png)](https://youtu.be/L8g52qN8nvk)
+[![Видео](https://github.com/dbprof/hot-wheels-speed-track/blob/master/video.png)](https://youtu.be/mLS2u-RiAHc)
 
 Видео показ работы:
 [![Видео](https://github.com/dbprof/hot-wheels-speed-track/blob/master/video2.png)](https://youtu.be/L8g52qN8nvk)
